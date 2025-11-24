@@ -33,8 +33,8 @@ We have selected the paper **"Mobile-Former: Bridging MobileNet and Transformer"
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/barnav1/CSF425_DL_MobileFormer_2025.git
+    cd CSF425_DL_MobileFormer_2025
     ```
 
 2.  **Install dependencies:**
